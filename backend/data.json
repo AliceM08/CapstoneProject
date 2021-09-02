@@ -1,0 +1,88 @@
+{
+  "users": [
+    {
+      "id": 1001,
+      "name": "King Slay",
+      "email": "king.slay@gmail.com",
+      "type": "User",
+      "username": "king",
+      "password": "123456"
+    },
+    {
+      "id": 1002,
+      "name": "Lerato Makgoba",
+      "email": "lerato@gmail.com",
+      "type": "Admin",
+      "username": "lerato",
+      "password": "123456"
+    },
+    {
+      "id": 1003,
+      "name": "Grace Lisatte",
+      "email": "lisa@gmail.com",
+      "type": "User",
+      "username": "lisa",
+      "password": "abcdef"
+    },
+    {
+      "id": 1004,
+      "name": "Motlatjo Alice",
+      "email": "alice.makgoba@gmail.com",
+      "type": "Admin",
+      "username": "alice",
+      "password": "123456"
+    },
+    {
+      "id": 1005,
+      "name": "Ingrid Mahowa",
+      "email": "ingridm@gmail.com",
+      "type": "User",
+      "username": "ingridm",
+      "password": "123456"
+    }
+  ],
+  "products": [
+    {
+      "id": 5001,
+      "name": "Product One",
+      "price": 10000,
+      "quantity": 2,
+      "image": "https://d3nn873nee648n.cloudfront.net/900x600/19086/220-SM895210.jpg"
+    },
+    {
+      "id": 5002,
+      "name": "Product Two",
+      "price": 22000,
+      "quantity": 5,
+      "image": "https://d3nn873nee648n.cloudfront.net/900x600/19086/220-SM895210.jpg"
+    },
+    {
+      "id": 5003,
+      "name": "Product Three",
+      "price": 15000,
+      "quantity": 6,
+      "image": "https://d3nn873nee648n.cloudfront.net/900x600/19086/220-SM895210.jpg"
+    },
+    {
+      "id": 5004,
+      "name": "Product One",
+      "price": 10000,
+      "quantity": 2,
+      "image": "https://d3nn873nee648n.cloudfront.net/900x600/19086/220-SM895210.jpg"
+    },
+    {
+      "id": 5005,
+      "name": "Product Two",
+      "price": 22000,
+      "quantity": 5,
+      "image": "https://d3nn873nee648n.cloudfront.net/900x600/19086/220-SM895210.jpg"
+    },
+    {
+      "id": 5006,
+      "name": "Product Three",
+      "price": 15000,
+      "quantity": 6,
+      "image": "https://d3nn873nee648n.cloudfront.net/900x600/19086/220-SM895210.jpg"
+    }
+  ]
+}
